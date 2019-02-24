@@ -1,0 +1,16 @@
+{
+    "name": "3basesnode",
+    "version": "1.0.0",
+    "description": "esta es una aplicacion de linea de comando",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Daniel Alvarado",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.3.3",
+        "yargs": "^13.2.1"
+    },
+    "devDependencies": {}
+}
